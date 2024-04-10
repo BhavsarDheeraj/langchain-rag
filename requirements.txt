@@ -2,3 +2,7 @@ langchain_openai
 langchain_community
 langchain_core
 python-dotenv
+bs4
+faiss-cpu
+tiktoken
+langchain_text_splitters
